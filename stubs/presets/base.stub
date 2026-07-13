@@ -26,6 +26,7 @@ config
 confirmable
 cors
 cron
+crypto
 csrf
 csv
 datetime
@@ -83,6 +84,7 @@ nullable
 oauth
 onboarding
 otp
+owasp
 params
 parsable
 phpstan
@@ -107,6 +109,7 @@ roadmap
 rsa
 schemas
 scorm
+seo
 serializer
 serverless
 sftp
@@ -156,3 +159,4 @@ vite
 waitlist
 webhook
 webhooks
+whatsapp
